@@ -17,3 +17,7 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-re
 www.youtube.com##.ytd-guide-downloads-entry-renderer.style-scope
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(n):has-text("Preskúmať")
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(n):has-text("Viac zo služby YouTube")
+
+tvnoviny.sk##.c-tnlive
+tvnoviny.sk##.c-card
+tvnoviny.sk##div.c-section:nth-of-type(8) > .container > .row > .c-content-inner.col-lg-8 > .c-section-inner
