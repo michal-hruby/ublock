@@ -59,3 +59,9 @@ www.noviny.sk##.swiper-container-pointer-events.swiper-container-horizontal.swip
 www.noviny.sk##.-bordered.c-section-header:has-text("PR správy")
 www.noviny.sk##.section.c-section { all: unset !important; }
 www.noviny.sk##.-detach.js-player-detach-container.c-player-detach-container
+
+dennikn.sk##.n3_header_actions
+dennikn.sk##.n3_tile_content:has-text("Kúpiť tento obrázok")
+dennikn.sk##div.n3_single
+dennikn.sk##.t_promo
+dennikn.sk##.n3_lock_content
