@@ -1,0 +1,19 @@
+! force 4 videos per row for home page view
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
+! remove videos below 1000 views on home page
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer:not(:has(span.yt-core-attributed-string.yt-content-metadata-view-model__metadata-text.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string--link-inherit-color:has-text(/tis|mil|Streamované/)))
+www.youtube.com##yt-lockup-view-model:not(:has(span.yt-core-attributed-string:has-text(/tis|mil|Streamované/)))
+
+! remove Download
+www.youtube.com##.ytd-download-button-renderer.style-scope
+!remove Share button
+www.youtube.com##yt-button-view-model.ytd-menu-renderer
+www.youtube.com###voice-search-button
+
+
+!youtube left side menu expanded
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(n):has-text("Vaše videá")
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(n):has-text("Vaše klipy")
+www.youtube.com##.ytd-guide-downloads-entry-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(n):has-text("Preskúmať")
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(n):has-text("Viac zo služby YouTube")
