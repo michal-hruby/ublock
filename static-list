@@ -48,3 +48,9 @@ www.aktuality.sk##.banner-padding-top
 www.aktuality.sk##main:style(background-image: none !important;)
 www.aktuality.sk##.phllp-link-area
 www.aktuality.sk##.btn-gold.donate-button.payment-button
+
+zive.aktuality.sk##.header-premium-button-container
+zive.aktuality.sk##.leaflet-promo-widget
+zive.aktuality.sk##.newsletter-cta
+zive.aktuality.sk##.thanks-blocker-container.blocker-container
+zive.aktuality.sk##leaflet-slider-widget
