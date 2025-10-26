@@ -54,3 +54,8 @@ zive.aktuality.sk##.leaflet-promo-widget
 zive.aktuality.sk##.newsletter-cta
 zive.aktuality.sk##.thanks-blocker-container.blocker-container
 zive.aktuality.sk##leaflet-slider-widget
+
+www.noviny.sk##.swiper-container-pointer-events.swiper-container-horizontal.swiper-container-initialized.js-article-carousel.swiper-container.c-article-carousel:has-text("PR správy")
+www.noviny.sk##.-bordered.c-section-header:has-text("PR správy")
+www.noviny.sk##.section.c-section { all: unset !important; }
+www.noviny.sk##.-detach.js-player-detach-container.c-player-detach-container
