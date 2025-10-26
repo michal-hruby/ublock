@@ -68,3 +68,6 @@ dennikn.sk##.n3_lock_content
 dennikn.sk##.mnt-External
 
 www.twitch.tv###twilight-sticky-footer-root
+
+www.sme.sk###js-sme-corpbar-user-unlogged > .btn-rounded.subscription-btn.js-subscription-button
+www.sme.sk##.ml-auto.social-dialog-wrapper
