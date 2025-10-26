@@ -21,3 +21,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 tvnoviny.sk##.c-tnlive
 tvnoviny.sk##.c-card
 tvnoviny.sk##div.c-section:nth-of-type(8) > .container > .row > .c-content-inner.col-lg-8 > .c-section-inner
+tvnoviny.sk##div.c-section:nth-of-type(n):has-text("Highlighty Niké ligy")
+tvnoviny.sk##.share.c-section > .container
+tvnoviny.sk##.g-news
+tvnoviny.sk##.-detach.-foot-nav-detach.js-player-detach-container.detach-container
