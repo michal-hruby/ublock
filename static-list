@@ -41,3 +41,4 @@ www.aktuality.sk##.google-news
 www.aktuality.sk##.newsletter-container
 www.aktuality.sk##.tp-active.tp-backdrop
 www.aktuality.sk##section:has-text(Reklama)
+www.aktuality.sk##li.pr-articles-list-item:nth-of-type(n):has-text("PR články")
