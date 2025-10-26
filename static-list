@@ -42,3 +42,8 @@ www.aktuality.sk##.newsletter-container
 www.aktuality.sk##.tp-active.tp-backdrop
 www.aktuality.sk##section:has-text(Reklama)
 www.aktuality.sk##li.pr-articles-list-item:nth-of-type(n):has-text("PR články")
+
+!aktuality top+side banner ad
+www.aktuality.sk##.banner-padding-top
+www.aktuality.sk##main:style(background-image: none !important;)
+www.aktuality.sk##.phllp-link-area
