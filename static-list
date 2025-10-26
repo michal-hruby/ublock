@@ -37,3 +37,6 @@ www.aktuality.sk###eshop-section
 www.aktuality.sk##.relative.md\:py-10.bg-gray-100.leading-4\.5.px-6.py-4.text-center
 www.aktuality.sk##.lg\:px-0.md\:px-5.h-full.homepage-timeline.timeline-container > .md\:mt-0.md\:border-0.pt-7\.5.mt-7\.5.dark\:border-dm-divider.border-divider.border-t
 www.aktuality.sk##.md\:gap-y-0.lg\:\!flex-row.overflow-hidden.lg\:flex-col.md\:gap-y-1.gap-x-2\.5.flex.relative:has-text("PR články")
+www.aktuality.sk##.google-news
+www.aktuality.sk##.newsletter-container
+www.aktuality.sk##.tp-active.tp-backdrop
