@@ -10,6 +10,11 @@ www.youtube.com##.ytd-download-button-renderer.style-scope
 www.youtube.com##yt-button-view-model.ytd-menu-renderer
 www.youtube.com###voice-search-button
 
+!AI slop
+www.youtube.com###expandable-metadata
+!reels slop
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+
 
 !youtube left side menu expanded
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(n):has-text("Vaše videá")
