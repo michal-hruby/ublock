@@ -10,6 +10,9 @@ www.youtube.com##.ytd-download-button-renderer.style-scope
 www.youtube.com##yt-button-view-model.ytd-menu-renderer
 www.youtube.com###voice-search-button
 
+!remove fullscreen video like dislike comment share section
+www.youtube.com##yt-player-quick-action-buttons
+
 !AI slop
 www.youtube.com###expandable-metadata
 !reels slop
