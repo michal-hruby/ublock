@@ -79,3 +79,8 @@ www.twitch.tv###twilight-sticky-footer-root
 
 www.sme.sk###js-sme-corpbar-user-unlogged > .btn-rounded.subscription-btn.js-subscription-button
 www.sme.sk##.ml-auto.social-dialog-wrapper
+
+chatgpt.com##.lg\:block.hidden:has-text("Get Plus")
+
+www.reddit.com###games_section
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
