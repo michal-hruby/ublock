@@ -43,9 +43,8 @@
         }
 
         if (viewCountElement) {
-            console.log("yolo");
             const viewCountText = viewCountElement.textContent.trim();
-            if (viewCountText.toLowerCase().includes("no views")) {
+            if (viewCountText.toLowerCase().includes("zhliadnutia")) {
                 item.classList.add('unpopular-video-hidden');
             } else {
                 const viewCountMatch = viewCountText.match(/([\d,.]+)\s*(tis.|mil.|Streamované)?\s*zhliadnutí/i);
