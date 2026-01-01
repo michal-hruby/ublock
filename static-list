@@ -114,6 +114,7 @@ www.facebook.com##.xpdmqnj.x1g0dm76.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1
 chatgpt.com##.lg\:block.hidden:has-text("Upgrade to Go")
 
 ! block linkedin premium bs
+www.linkedin.com##.pv3:has-text("Today’s puzzle")
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.ph1.overflow-hidden.artdeco-card
 www.linkedin.com##.ember-view.artdeco-button--secondary.artdeco-button--2.artdeco-button.pvs-profile-actions__custom-action
