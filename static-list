@@ -92,3 +92,27 @@ chatgpt.com##.lg\:block.hidden:has-text("Get Plus")
 
 www.reddit.com###games_section
 www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
+
+! Dec 31, 2025 https://www.instagram.com
+www.instagram.com##.xhuyl8g.xl5mz7h > span.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span:has-text("Also from Meta")
+www.instagram.com##.xh8yej3.x1iyjqo2 > div:has-text("Create")
+www.instagram.com##.xh8yej3.x1iyjqo2 > div:has-text("Explore")
+www.instagram.com##.xh8yej3.x1iyjqo2 > div:has-text("Reels")
+www.instagram.com##.xh8yej3.x1iyjqo2 > div:has-text("Messages")
+
+! Dec 31, 2025 https://www.facebook.com
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:has-text("Meta AI")
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:has-text("Marketplace")
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:has-text("Reels")
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:has-text("Profesionálny panel")
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:has-text("Spomienky")
+www.facebook.com##.xti2d7y > li > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6:has-text("Meta AI")
+www.facebook.com##.xz9dl7a.xf7dkkf.xv54qhq.x1a8lsjc.x1a02dak.x78zum5.x6s0dn4
+www.facebook.com##.x1y1aw1k.xmzvs34.xwib8y2 > .x1a2a7pz.x1q0g3np.x78zum5
+www.facebook.com##.xpdmqnj.x1g0dm76.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+
+! Dec 31, 2025 https://chatgpt.com
+chatgpt.com##.lg\:block.hidden:has-text("Upgrade to Go")
+
+! Dec 31, 2025 https://www.youtube.com
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope:has-text("Vytvoriť")
