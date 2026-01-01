@@ -116,3 +116,6 @@ chatgpt.com##.lg\:block.hidden:has-text("Upgrade to Go")
 ! block linkedin premium bs
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.ph1.overflow-hidden.artdeco-card
+www.linkedin.com##.ember-view.artdeco-button--secondary.artdeco-button--2.artdeco-button.pvs-profile-actions__custom-action
+www.linkedin.com##.pe-profile-top-card-form__upsell-wrapper.p3.artdeco-card
+www.linkedin.com##.fb-gai-text__ai-suggestion-bar.ai-suggestions-bar
