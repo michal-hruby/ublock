@@ -1,8 +1,14 @@
 ! force 4 videos per row for home page view
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
 ! remove videos below 1000 views on home page
-www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer:not(:has(span.yt-core-attributed-string.yt-content-metadata-view-model__metadata-text.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string--link-inherit-color:has-text(/tis|mil|Streamované/)))
-www.youtube.com##yt-lockup-view-model:not(:has(span.yt-core-attributed-string:has-text(/tis|mil|Streamované/)))
+www.youtube.com##ytd-rich-item-renderer:not(:has-text(tis.)):not(:has-text(mil.))
+www.youtube.com##yt-lockup-view-model.ytd-item-section-renderer > .yt-lockup-view-model:not(:has-text(tis)):not(:has-text(mil))
+www.youtube.com##a.ytp-modern-videowall-still:not(:has-text(tis)):not(:has-text(mil))
+www.youtube.com##ytd-rich-section-renderer:has-text(Preskúmajte ďalšie témy)
+www.youtube.com##yt-lockup-view-model.ytLockupViewModelWrapper.lockup.ytd-item-section-renderer:not(:has-text(tis)):not(:has-text(mil))
+youtube.com##.ytp-chapter-container:style(max-width:none !important;)
+youtube.com##.ytp-chapter-title:style(max-width:none !important;)
+youtube.com##.ytp-chapter-title-content:style(max-width:none !important; overflow:visible !important; text-overflow:clip !important;)
 
 ! remove videos that are auto-dubbed
 !homepage
