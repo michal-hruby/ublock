@@ -41,13 +41,14 @@ www.youtube.com##.ytd-guide-downloads-entry-renderer.style-scope
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(n):has-text("Preskúmať")
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(n):has-text("Viac zo služby YouTube")
 
-tvnoviny.sk##.c-tnlive
-tvnoviny.sk##.c-card
-tvnoviny.sk##div.c-section:nth-of-type(8) > .container > .row > .c-content-inner.col-lg-8 > .c-section-inner
-tvnoviny.sk##div.c-section:nth-of-type(n):has-text("Highlighty Niké ligy")
-tvnoviny.sk##.share.c-section > .container
-tvnoviny.sk##.g-news
-tvnoviny.sk##.-detach.-foot-nav-detach.js-player-detach-container.detach-container
+tnlive.sk##.c-tnlive
+tnlive.sk##.c-card
+tnlive.sk##div.c-section:nth-of-type(8) > .container > .row > .c-content-inner.col-lg-8 > .c-section-inner
+tnlive.sk##div.c-section:nth-of-type(n):has-text("Highlighty Niké ligy")
+tnlive.sk##.share.c-section > .container
+tnlive.sk##.g-news
+tnlive.sk##.-detach.-foot-nav-detach.js-player-detach-container.detach-container
+tnlive.sk##article.-inline.c-article:has-text("PR článok")
 
 www.aktuality.sk###onesignal-bell-container
 www.aktuality.sk##.tp-container-inner
