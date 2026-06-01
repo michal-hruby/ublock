@@ -17,6 +17,12 @@ www.youtube.com##ytd-rich-item-renderer:has(badge-shape:has-text(Automaticky dab
 youtube.com##ytd-video-renderer:has(badge-shape:has-text(Automaticky dabované))
 !sidebar
 youtube.com##ytd-compact-video-renderer:has(badge-shape:has-text(Automaticky dabované))
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_secondary_max_width, 402)
+www.youtube.com###related a.yt-lockup-view-model__content-image, #related ytd-thumbnail:style( width: 170px !important; )
+
+! Feb 9, 2026 https://www.youtube.com
+www.youtube.com##yt-lockup-view-model.yt-lockup-view-model--wrapper.lockup.ytd-item-section-renderer:has-text("Dabované")
+www.youtube.com##.yt-lockup-view-model--wrapper.lockup.ytd-rich-item-renderer:has-text("Dabované")
 
 ! remove Download
 www.youtube.com##.ytd-download-button-renderer.style-scope
@@ -95,6 +101,7 @@ www.twitch.tv###twilight-sticky-footer-root
 
 www.sme.sk###js-sme-corpbar-user-unlogged > .btn-rounded.subscription-btn.js-subscription-button
 www.sme.sk##.ml-auto.social-dialog-wrapper
+www.sme.sk##.anz-cluster:has-text("AI analýza diskusie")
 
 chatgpt.com##.lg\:block.hidden:has-text("Get Plus")
 
